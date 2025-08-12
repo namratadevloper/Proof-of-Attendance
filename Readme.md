@@ -36,8 +36,3 @@ ST3RYJRCHHN1DDHZADVWB0KJ71FQY2Q7QF1MFVDAF.Proof-of-Attendance
 <img width="1812" height="776" alt="image" src="https://github.com/user-attachments/assets/8a857c5d-0f3a-40a3-8842-cf58bd133f49" />
 
 
-> To be added after deployment to Stacks mainnet/testnet.
-> Example placeholder:
-> `SP1ABCDE2345FGHIJK6789LMNOPQRSTUVWX.zk-badge`
-
----
